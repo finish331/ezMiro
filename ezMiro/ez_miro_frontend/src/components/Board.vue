@@ -265,6 +265,7 @@ export default {
         this.collaborator.push(cursor)
         MoveCursor(this.boardId, this.composeCursorInfo(this.user.x, this.user.y))
       }
+      console.log(this.collaborator)
     },
     handleCursorMovement (cursor) {
       var user = this.collaborator.find(user => user.userId === cursor.userId)
