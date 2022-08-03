@@ -1,13 +1,22 @@
-Team 3
+## Introduction
+ezMiro is an online whiteboard software created with Miro in mind. It allows multiple people to work on the whiteboard at the same time and synchronize data in real time.
 
-組名：Eldia
+We use Event Storming and DDD for requirement analysis and software design, and Clean Architecture for system architecture, and finally TDD for implementation.
 
-組員：
-109598008 陳哲葦
-109598026 林敬勛
-109598028 卓旭嘉
-109598072 王方顯
-109598097 詹昆宬
+![](https://i.imgur.com/sgiLHAZ.png)
 
-共同開發時間：
-每週二 15:00-18:00
+## Tools
+- Vue.js
+- Java
+- Spring
+- H2
+
+## Features
+### Creat Board/Enter Board
+- ![](https://i.imgur.com/OpOAMtq.png)
+### Multi-player simultaneous whiteboard operation
+- ![](https://i.imgur.com/ErixgGJ.png)
+### Changeable sticky note properties
+- ![](https://i.imgur.com/9nzGFM4.png)
+### We use to run Event Storming
+- ![](https://i.imgur.com/sgiLHAZ.png)
